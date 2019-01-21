@@ -1,6 +1,6 @@
 # AOI-Defect-Classification
 Final project of Digital Image Processing.
-Please see ![Report](./Final_report.pdf) for more details.
+Please see [Report](./Final_report.pdf) for more details.
 
 # Classification
 * Run ```train_and_eval.py``` to train the CNN. Trained model is stored in ```checkpoints/model_final.h5```.
